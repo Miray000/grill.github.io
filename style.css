@@ -4,9 +4,9 @@ body{
 }
 
 @media(max-width:520px){
- body{
+
   overflow-x: hidden;
- }
+}
   
     
     overflow-x: hidden;
