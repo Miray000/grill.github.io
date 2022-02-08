@@ -1,4 +1,4 @@
- @media(max-width:920px){
+ @media screen(max-width:920px){
     .corot{
         margin: 0;
         padding: 10px 10px 25px;
