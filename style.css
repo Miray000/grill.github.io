@@ -1,9 +1,8 @@
- @media screen(max-width:920px){
-    .corot{
-        margin: 0;
-        padding: 10px 10px 25px;
-    }
+body{
+ width: 100%;
+min-width:960px;
 }
+  
     
     overflow-x: hidden;
 }
