@@ -1,7 +1,7 @@
 body{
     position: relative;
-    
-    max-width: 800px;
+    height: 100%;
+    width: 800px;
 }
 
 .root{
